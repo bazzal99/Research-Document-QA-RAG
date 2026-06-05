@@ -88,8 +88,8 @@ using deep learning (CNNs, LSTMs, ConvLSTM), implemented in Python with
 TensorFlow and Keras...
 
 📚 Sources:
-   - abdallah_project.pdf, page 8
-   - abdallah_project.pdf, page 19
+   - adex.pdf, page 8
+   - albert.pdf, page 19
 ```
 
 ## Stack
