@@ -1,0 +1,20 @@
+# API keys — never upload
+.env
+
+# Vector store — rebuild locally with ingest.py
+vectorstore/
+
+# Virtual environment
+venv/
+
+# Your PDFs — don't upload other people's documents
+docs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
